@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/invaria-fork/static/css/main.b794e693.css",
+    "main.js": "/invaria-fork/static/js/main.2584d1a6.js",
+    "static/js/787.f94b2116.chunk.js": "/invaria-fork/static/js/787.f94b2116.chunk.js",
+    "static/media/land.png": "/invaria-fork/static/media/land.db1e2aa10c279ac13378.png",
+    "static/media/logo_white.svg": "/invaria-fork/static/media/logo_white.beef43e9db8b92fec5e08b4f4ae0d6b0.svg",
+    "static/media/twitter.svg": "/invaria-fork/static/media/twitter.6eece2e975b9995d10c7ed2ac40457b7.svg",
+    "static/media/discord.svg": "/invaria-fork/static/media/discord.63e8f3fd314f62e01920be7772204eab.svg",
+    "index.html": "/invaria-fork/index.html",
+    "main.b794e693.css.map": "/invaria-fork/static/css/main.b794e693.css.map",
+    "main.2584d1a6.js.map": "/invaria-fork/static/js/main.2584d1a6.js.map",
+    "787.f94b2116.chunk.js.map": "/invaria-fork/static/js/787.f94b2116.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b794e693.css",
+    "static/js/main.2584d1a6.js"
+  ]
+}
