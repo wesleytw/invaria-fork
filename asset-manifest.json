@@ -1,19 +1,37 @@
 {
   "files": {
-    "main.css": "/invaria-fork/static/css/main.b794e693.css",
-    "main.js": "/invaria-fork/static/js/main.2584d1a6.js",
+    "main.css": "/invaria-fork/static/css/main.5efb4a6c.css",
+    "main.js": "/invaria-fork/static/js/main.829cb250.js",
+    "static/js/874.71511a12.chunk.js": "/invaria-fork/static/js/874.71511a12.chunk.js",
+    "static/js/799.394340b5.chunk.js": "/invaria-fork/static/js/799.394340b5.chunk.js",
+    "static/js/519.a91cdb9b.chunk.js": "/invaria-fork/static/js/519.a91cdb9b.chunk.js",
+    "static/js/269.d9f31b12.chunk.js": "/invaria-fork/static/js/269.d9f31b12.chunk.js",
     "static/js/787.f94b2116.chunk.js": "/invaria-fork/static/js/787.f94b2116.chunk.js",
-    "static/media/land.png": "/invaria-fork/static/media/land.db1e2aa10c279ac13378.png",
+    "static/js/855.08273e1d.chunk.js": "/invaria-fork/static/js/855.08273e1d.chunk.js",
+    "static/js/623.969f0083.chunk.js": "/invaria-fork/static/js/623.969f0083.chunk.js",
+    "static/js/668.3c0e980c.chunk.js": "/invaria-fork/static/js/668.3c0e980c.chunk.js",
+    "static/js/280.aa65c019.chunk.js": "/invaria-fork/static/js/280.aa65c019.chunk.js",
+    "static/media/cloud1.png": "/invaria-fork/static/media/cloud1.f7094d177e84632decd3.png",
+    "static/media/cloud2.png": "/invaria-fork/static/media/cloud2.d027c9d2c82b6622f865.png",
+    "static/media/bg_phase0.png": "/invaria-fork/static/media/bg_phase0.1c614642609f0c37417d.png",
     "static/media/logo_white.svg": "/invaria-fork/static/media/logo_white.beef43e9db8b92fec5e08b4f4ae0d6b0.svg",
     "static/media/twitter.svg": "/invaria-fork/static/media/twitter.6eece2e975b9995d10c7ed2ac40457b7.svg",
     "static/media/discord.svg": "/invaria-fork/static/media/discord.63e8f3fd314f62e01920be7772204eab.svg",
     "index.html": "/invaria-fork/index.html",
-    "main.b794e693.css.map": "/invaria-fork/static/css/main.b794e693.css.map",
-    "main.2584d1a6.js.map": "/invaria-fork/static/js/main.2584d1a6.js.map",
-    "787.f94b2116.chunk.js.map": "/invaria-fork/static/js/787.f94b2116.chunk.js.map"
+    "static/media/ic_language.svg": "/invaria-fork/static/media/ic_language.918c186f7fc80a0a556811332e061511.svg",
+    "static/media/ic_close.svg": "/invaria-fork/static/media/ic_close.e20279ac4433a2ac04225d21f9064a29.svg",
+    "main.5efb4a6c.css.map": "/invaria-fork/static/css/main.5efb4a6c.css.map",
+    "main.829cb250.js.map": "/invaria-fork/static/js/main.829cb250.js.map",
+    "874.71511a12.chunk.js.map": "/invaria-fork/static/js/874.71511a12.chunk.js.map",
+    "269.d9f31b12.chunk.js.map": "/invaria-fork/static/js/269.d9f31b12.chunk.js.map",
+    "787.f94b2116.chunk.js.map": "/invaria-fork/static/js/787.f94b2116.chunk.js.map",
+    "855.08273e1d.chunk.js.map": "/invaria-fork/static/js/855.08273e1d.chunk.js.map",
+    "623.969f0083.chunk.js.map": "/invaria-fork/static/js/623.969f0083.chunk.js.map",
+    "668.3c0e980c.chunk.js.map": "/invaria-fork/static/js/668.3c0e980c.chunk.js.map",
+    "280.aa65c019.chunk.js.map": "/invaria-fork/static/js/280.aa65c019.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b794e693.css",
-    "static/js/main.2584d1a6.js"
+    "static/css/main.5efb4a6c.css",
+    "static/js/main.829cb250.js"
   ]
 }
