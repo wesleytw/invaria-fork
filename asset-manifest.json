@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/invaria-fork/static/css/main.5efb4a6c.css",
-    "main.js": "/invaria-fork/static/js/main.829cb250.js",
-    "static/js/874.71511a12.chunk.js": "/invaria-fork/static/js/874.71511a12.chunk.js",
+    "main.css": "/invaria-fork/static/css/main.a9193be3.css",
+    "main.js": "/invaria-fork/static/js/main.4b900967.js",
+    "static/js/874.6d8bc47c.chunk.js": "/invaria-fork/static/js/874.6d8bc47c.chunk.js",
     "static/js/799.394340b5.chunk.js": "/invaria-fork/static/js/799.394340b5.chunk.js",
     "static/js/519.a91cdb9b.chunk.js": "/invaria-fork/static/js/519.a91cdb9b.chunk.js",
     "static/js/269.d9f31b12.chunk.js": "/invaria-fork/static/js/269.d9f31b12.chunk.js",
@@ -14,15 +14,27 @@
     "static/media/cloud1.png": "/invaria-fork/static/media/cloud1.f7094d177e84632decd3.png",
     "static/media/cloud2.png": "/invaria-fork/static/media/cloud2.d027c9d2c82b6622f865.png",
     "static/media/bg_phase0.png": "/invaria-fork/static/media/bg_phase0.1c614642609f0c37417d.png",
+    "static/media/bg_land.png": "/invaria-fork/static/media/bg_land.3a790a4644eec0d3bb69.png",
+    "static/media/bg_03.png": "/invaria-fork/static/media/bg_03.36d25ea9a4ca6994541b.png",
+    "static/media/bg_02.png": "/invaria-fork/static/media/bg_02.ffba908a3e5bb6ea955b.png",
+    "static/media/bg_04.png": "/invaria-fork/static/media/bg_04.1f23cf3faac2a3d4c52b.png",
+    "static/media/bg_05.png": "/invaria-fork/static/media/bg_05.7efed3581cdf1a66aa32.png",
+    "static/media/img_story3.png": "/invaria-fork/static/media/img_story3.4a179f6555693a8d8b91.png",
+    "static/media/img_story1.png": "/invaria-fork/static/media/img_story1.f1b7637bc6fdc5ff7e4a.png",
+    "static/media/img_story2.png": "/invaria-fork/static/media/img_story2.7559a5b6b62782d563d8.png",
+    "static/media/img_story5.png": "/invaria-fork/static/media/img_story5.1c0f08d11e461c896c05.png",
+    "static/media/img_story4.png": "/invaria-fork/static/media/img_story4.cab5019779faca8bf49c.png",
     "static/media/logo_white.svg": "/invaria-fork/static/media/logo_white.beef43e9db8b92fec5e08b4f4ae0d6b0.svg",
-    "static/media/twitter.svg": "/invaria-fork/static/media/twitter.6eece2e975b9995d10c7ed2ac40457b7.svg",
-    "static/media/discord.svg": "/invaria-fork/static/media/discord.63e8f3fd314f62e01920be7772204eab.svg",
+    "static/media/twitter.svg": "/invaria-fork/static/media/twitter.ef948d6c1ca93e43526d1ba1a715917d.svg",
+    "static/media/discord.svg": "/invaria-fork/static/media/discord.a87c4c2da057a8faf2c159db29cf6aca.svg",
     "index.html": "/invaria-fork/index.html",
     "static/media/ic_language.svg": "/invaria-fork/static/media/ic_language.918c186f7fc80a0a556811332e061511.svg",
+    "static/media/ic_menu.svg": "/invaria-fork/static/media/ic_menu.72281eb81ececdc59ce5d0c9761f6226.svg",
+    "static/media/ic_back.svg": "/invaria-fork/static/media/ic_back.0c94785df75c77561b1a63db33a7ef62.svg",
     "static/media/ic_close.svg": "/invaria-fork/static/media/ic_close.e20279ac4433a2ac04225d21f9064a29.svg",
-    "main.5efb4a6c.css.map": "/invaria-fork/static/css/main.5efb4a6c.css.map",
-    "main.829cb250.js.map": "/invaria-fork/static/js/main.829cb250.js.map",
-    "874.71511a12.chunk.js.map": "/invaria-fork/static/js/874.71511a12.chunk.js.map",
+    "main.a9193be3.css.map": "/invaria-fork/static/css/main.a9193be3.css.map",
+    "main.4b900967.js.map": "/invaria-fork/static/js/main.4b900967.js.map",
+    "874.6d8bc47c.chunk.js.map": "/invaria-fork/static/js/874.6d8bc47c.chunk.js.map",
     "269.d9f31b12.chunk.js.map": "/invaria-fork/static/js/269.d9f31b12.chunk.js.map",
     "787.f94b2116.chunk.js.map": "/invaria-fork/static/js/787.f94b2116.chunk.js.map",
     "855.08273e1d.chunk.js.map": "/invaria-fork/static/js/855.08273e1d.chunk.js.map",
@@ -31,7 +43,7 @@
     "280.aa65c019.chunk.js.map": "/invaria-fork/static/js/280.aa65c019.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5efb4a6c.css",
-    "static/js/main.829cb250.js"
+    "static/css/main.a9193be3.css",
+    "static/js/main.4b900967.js"
   ]
 }
